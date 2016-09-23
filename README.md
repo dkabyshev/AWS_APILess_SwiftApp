@@ -1,13 +1,18 @@
 # AWS_APILess_SwiftApp
 This repository contains a complete example of iOS application (Swift) with AWS as mobile backend.
-https://medium.com/@dkabyshev/api-less-backend-for-ios-with-aws-in-swift-part-1-cf230f080af5#.wkehoh7ya
+
+### [API-less backend for iOS with AWS in Swift (part 1) ](https://medium.com/@dkabyshev/api-less-backend-for-ios-with-aws-in-swift-part-1-cf230f080af5#.wkehoh7ya )
 
 Don't forget to update Facebook AppId and URL schemes.
+
+------------------------
 
 ## Requirements
 
 * Swift 3
 * xCode 8
+
+------------------------
 
 ## License
 
