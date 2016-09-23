@@ -1,0 +1,47 @@
+PODS:
+  - AWSCognito (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSCognitoIdentityProvider (2.4.9):
+    - AWSCore (= 2.4.9)
+  - AWSCore (2.4.9)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.15.1):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.15.1):
+    - FBSDKCoreKit
+  - R.swift (3.0.0):
+    - R.swift.Library (~> 3.0.0)
+  - R.swift.Library (3.0.1)
+  - SVProgressHUD (2.0.3)
+  - UICKeyChainStore (2.0.7)
+
+DEPENDENCIES:
+  - AWSCognito (~> 2.4.9)
+  - AWSCognitoIdentityProvider (~> 2.4.9)
+  - AWSCore (~> 2.4.9)
+  - FBSDKCoreKit (~> 4.15.0)
+  - FBSDKLoginKit (~> 4.15.0)
+  - R.swift (~> 3.0.0)
+  - SVProgressHUD (~> 2.0.3)
+  - UICKeyChainStore (~> 2.0.6)
+
+SPEC CHECKSUMS:
+  AWSCognito: 4fa9fefcadae1d8425b01cbde27d564c21e3fd35
+  AWSCognitoIdentityProvider: 34707960c3bd3f4956cb3b9a129dfda12376bd40
+  AWSCore: 175208358b95492e0ebe0337df2ab415300bddac
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: fc7fa53d16b095ee3fd53f0cd59f1df8bcbb634d
+  FBSDKLoginKit: 073f79b3b2e762fc6f54a283fe15f45372d59f5f
+  R.swift: 5a8b4a4ea565b0f20c39d8ce1445f3d3a9064768
+  R.swift.Library: 0869d8d546517aa79db078fd8262724391a38db8
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  UICKeyChainStore: 696cd35083f7c8fb5e201d909b7e6aea6b478575
+
+PODFILE CHECKSUM: c017c600b66071959253f15a3ea2776a0e0ae6bf
+
+COCOAPODS: 1.0.1
